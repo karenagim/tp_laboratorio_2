@@ -1,1 +1,1 @@
-# tp_laboratorio_2
+En esta carpeta se adjuntaran los trabajos practicos de la cursada Laboratorio II
