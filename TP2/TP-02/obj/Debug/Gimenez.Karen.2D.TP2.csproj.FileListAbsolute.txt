@@ -1,0 +1,10 @@
+C:\Users\Compu casa\Desktop\TP_2\v2\TP-02-Cascara.r2\TP-02\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\Compu casa\Desktop\TP_2\v2\TP-02-Cascara.r2\TP-02\TP-02\bin\Debug\TP-02.exe
+C:\Users\Compu casa\Desktop\TP_2\v2\TP-02-Cascara.r2\TP-02\TP-02\bin\Debug\TP-02.pdb
+C:\Users\Compu casa\Desktop\TP_2\v2\TP-02-Cascara.r2\TP-02\TP-02\bin\Debug\Entidades.dll
+C:\Users\Compu casa\Desktop\TP_2\v2\TP-02-Cascara.r2\TP-02\TP-02\bin\Debug\Entidades.pdb
+C:\Users\Compu casa\Desktop\TP_2\v2\TP-02-Cascara.r2\TP-02\TP-02\obj\Debug\Gimenez.Karen.2D.TP2.csproj.AssemblyReference.cache
+C:\Users\Compu casa\Desktop\TP_2\v2\TP-02-Cascara.r2\TP-02\TP-02\obj\Debug\Gimenez.Karen.2D.TP2.csproj.CoreCompileInputs.cache
+C:\Users\Compu casa\Desktop\TP_2\v2\TP-02-Cascara.r2\TP-02\TP-02\obj\Debug\Gimenez.Karen.2D.TP2.csproj.CopyComplete
+C:\Users\Compu casa\Desktop\TP_2\v2\TP-02-Cascara.r2\TP-02\TP-02\obj\Debug\TP-02.exe
+C:\Users\Compu casa\Desktop\TP_2\v2\TP-02-Cascara.r2\TP-02\TP-02\obj\Debug\TP-02.pdb
